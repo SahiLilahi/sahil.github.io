@@ -679,6 +679,9 @@ h3.hello span {
     flex: 0 0 100%;
     max-width: 100%;
   }
+ .containerskill .skills .progress-bar{
+    width:200%;
+  }
 }
 
 /*skills*/
