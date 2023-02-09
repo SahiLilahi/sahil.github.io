@@ -466,6 +466,18 @@ h3.hello span {
   color: var(--bg-black-700);
 }
 
+#more {
+  display: none;
+}
+
+#myBtn {
+  color: var(--skin-color);
+  background-color: var(--bg-black-700);
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
 /*services*/
 
 .service-container {
