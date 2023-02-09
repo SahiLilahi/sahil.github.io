@@ -173,7 +173,7 @@ ul {
 }
 
 .aside .logo a {
-  color: var(--bg-black-900);
+  color: var(--bg-black-700);
   font-weight: 700;
   padding: 15px 20px;
   font-size: 30px;
@@ -549,6 +549,29 @@ h3.hello span {
 }
 
 /*contact form */
+.mapalwar {
+  text-decoration: none;
+  overflow: hidden;
+  max-width: 100%;
+  width: 500px;
+  height: 500px;
+  padding-left: 10%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 80%;
+}
+.formsubmit {
+  width: 90%;
+  padding-left: 20px;
+  padding-right: -25px;
+  padding-left: 5%;
+}
+.iframe {
+  height: 100%;
+  width: 100%;
+  border: 0;
+  border: "0";
+}
 
 .contact-title {
   color: var(--skin-color);
@@ -679,8 +702,8 @@ h3.hello span {
     flex: 0 0 100%;
     max-width: 100%;
   }
- .containerskill .skills .progress-bar{
-    width:200%;
+  .containerskill .skills .progress-bar {
+    width: 200%;
   }
 }
 
@@ -816,7 +839,7 @@ h3.hello span {
 .wrapper {
   width: 100%;
   background: var(--bg-black-900);
-  padding-top: 300px;
+  padding-top: 200px;
   text-align: center;
   border-bottom: 4px solid var(--skin-color);
 }
